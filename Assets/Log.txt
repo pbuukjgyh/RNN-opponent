@@ -1,0 +1,750 @@
+Ended on: 12/8/2024 10:51:54 AM
+Number of times killed: 0
+Recorded times player was killed:
+***************************************************************
+Started on: 12/8/2024 10:55:34 AM
+Started on: 12/8/2024 10:57:01 AM
+Started on: 12/8/2024 10:59:37 AM
+Started on: 12/8/2024 11:02:45 AM
+Started on: 12/8/2024 11:09:50 AM
+Ended on: 12/8/2024 11:09:59 AM
+Number of times killed: 1
+Recorded timestamps player was killed:
+12/8/2024 11:09:59 AM
+***************************************************************
+Ended on: 12/8/2024 11:10:21 AM
+Number of times killed: 1
+Recorded timestamps player was killed:
+12/8/2024 11:09:59 AM
+***************************************************************
+Started on: 12/8/2024 11:18:14 AM | Miliseconds: 63869253494433
+Ended on: 12/8/2024 11:18:18 AM | Miliseconds: 63869253498916
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-08 11:25:09.7220262
+Ended on: 2024-12-08 11:25:12.2944336
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-14 18:15:25.6493310
+Ended on: 2024-12-14 18:16:04.0818057
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-14 18:16:01.4350963
+***************************************************************
+Started on: 2024-12-14 18:17:42.9821768
+Ended on: 2024-12-14 18:17:48.1758519
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-14 18:18:09.3935147
+Ended on: 2024-12-14 18:18:13.2792214
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-14 18:18:34.6482198
+Ended on: 2024-12-14 18:21:08.2923721
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-14 18:21:36.5151045
+Ended on: 2024-12-14 18:22:18.4600862
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-14 18:21:49.1210458
+***************************************************************
+Started on: 2024-12-14 19:06:22.0520090
+Ended on: 2024-12-14 19:07:31.2749504
+Number of times killed: 2
+Recorded timestamps player was killed:
+2024-12-14 19:06:34.1902561
+2024-12-14 19:06:41.7110522
+***************************************************************
+Started on: 2024-12-14 19:09:10.8013452
+Ended on: 2024-12-14 19:09:25.3550030
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-14 19:10:22.3414822
+Ended on: 2024-12-14 19:11:50.9552031
+Number of times killed: 2
+Recorded timestamps player was killed:
+2024-12-14 19:10:53.7273185
+2024-12-14 19:11:01.8382927
+***************************************************************
+Started on: 2024-12-14 19:24:50.7377435
+Ended on: 2024-12-14 19:24:55.3094404
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:04:52.0041853
+Ended on: 2024-12-25 11:05:36.5596559
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 11:05:13.9196281
+***************************************************************
+Started on: 2024-12-25 11:07:38.9342463
+Ended on: 2024-12-25 11:07:45.8614268
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:08:18.9342722
+Ended on: 2024-12-25 11:09:07.4391637
+Number of times killed: 2
+Recorded timestamps player was killed:
+2024-12-25 11:08:38.7764238
+2024-12-25 11:09:05.6048471
+***************************************************************
+Started on: 2024-12-25 11:09:26.3142553
+Ended on: 2024-12-25 11:11:07.1208589
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:11:41.6002962
+Ended on: 2024-12-25 11:12:09.9754471
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 11:12:08.6101246
+***************************************************************
+Started on: 2024-12-25 11:13:31.4152272
+Ended on: 2024-12-25 11:13:51.1475376
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:16:01.5439787
+Ended on: 2024-12-25 11:24:15.4364895
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:24:31.4742429
+Ended on: 2024-12-25 11:25:01.0002135
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:26:41.6247390
+Ended on: 2024-12-25 11:27:20.6331991
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 11:36:09.2821536
+Ended on: 2024-12-25 11:36:41.5144767
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 11:36:38.6653291
+***************************************************************
+Started on: 2024-12-25 12:15:08.0862100
+Ended on: 2024-12-25 12:15:31.4999075
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 12:16:07.6024247
+Ended on: 2024-12-25 12:16:43.4027594
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 12:19:14.4949303
+Ended on: 2024-12-25 12:20:22.5992801
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 12:19:42.9603376
+***************************************************************
+Started on: 2024-12-25 12:21:08.2562594
+Ended on: 2024-12-25 12:23:02.4154275
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 12:21:49.1299427
+***************************************************************
+Started on: 2024-12-25 12:51:18.8821988
+Ended on: 2024-12-25 12:51:40.0186976
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 12:53:56.2959035
+Ended on: 2024-12-25 12:54:34.8248090
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 12:56:49.1771155
+Ended on: 2024-12-25 12:57:23.3214360
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 12:57:20.6156031
+***************************************************************
+Started on: 2024-12-25 12:57:55.1520369
+Ended on: 2024-12-25 12:58:02.8355860
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 12:59:24.1514239
+Ended on: 2024-12-25 12:59:35.9021704
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 12:59:51.7756407
+Ended on: 2024-12-25 13:00:06.5688718
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 13:09:29.8311332
+Ended on: 2024-12-25 13:10:36.2072337
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 13:24:28.6718739
+Ended on: 2024-12-25 13:25:26.9520281
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 13:26:19.5637685
+Ended on: 2024-12-25 13:26:58.8204525
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 14:47:58.9490995
+Ended on: 2024-12-25 14:49:50.4062725
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 14:51:33.4622929
+Ended on: 2024-12-25 14:53:00.2821840
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 15:56:26.6857831
+Ended on: 2024-12-25 15:56:32.5298245
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 15:56:48.4251298
+Ended on: 2024-12-25 15:57:59.8139433
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 15:59:09.2990400
+Ended on: 2024-12-25 15:59:52.4914194
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:00:48.1432592
+Ended on: 2024-12-25 16:01:04.1573434
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:01:53.8668967
+Ended on: 2024-12-25 16:02:19.0866786
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:14:23.0914651
+Ended on: 2024-12-25 16:14:41.8057622
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:15:16.4972155
+Ended on: 2024-12-25 16:15:58.6991401
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:17:38.1583719
+Started on: 2024-12-25 16:20:42.8782290
+Ended on: 2024-12-25 16:21:22.4387764
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:26:16.9485926
+Ended on: 2024-12-25 16:26:37.1565707
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:36:54.9722614
+Ended on: 2024-12-25 16:39:22.4265172
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:44:13.3096906
+Ended on: 2024-12-25 16:44:36.1456989
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:45:06.1128880
+Ended on: 2024-12-25 16:45:50.5756772
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 16:46:07.0446463
+Ended on: 2024-12-25 16:46:32.1738515
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 17:15:54.8989127
+Ended on: 2024-12-25 17:18:01.5075598
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 17:16:34.0081283
+***************************************************************
+Started on: 2024-12-25 17:22:39.1092916
+Ended on: 2024-12-25 17:23:19.1541118
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 17:22:59.6314427
+***************************************************************
+Started on: 2024-12-25 17:23:43.3279752
+Ended on: 2024-12-25 17:24:55.5522265
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 17:25:52.3949617
+Started on: 2024-12-25 17:29:16.9990474
+Ended on: 2024-12-25 17:30:57.1987412
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 17:35:14.9946856
+Ended on: 2024-12-25 17:36:54.9573394
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:04:12.7114874
+Ended on: 2024-12-25 18:04:53.5950759
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:05:16.2393489
+Ended on: 2024-12-25 18:05:38.8809010
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:27:59.2348315
+Ended on: 2024-12-25 18:29:10.5207122
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:35:19.1257171
+Ended on: 2024-12-25 18:35:57.4026248
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:37:02.5460914
+Started on: 2024-12-25 18:38:37.7098778
+Ended on: 2024-12-25 18:40:17.5776795
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:40:51.4366099
+Ended on: 2024-12-25 18:41:24.2766784
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:44:26.4096672
+Ended on: 2024-12-25 18:44:37.7452252
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 18:45:00.8226824
+Ended on: 2024-12-25 18:45:19.6637250
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 18:45:09.3083445
+***************************************************************
+Started on: 2024-12-25 19:00:23.6340523
+Ended on: 2024-12-25 19:00:58.0244863
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:02:19.8318249
+Ended on: 2024-12-25 19:03:20.9848933
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-25 19:02:44.7501849
+***************************************************************
+Started on: 2024-12-25 19:03:51.3720317
+Ended on: 2024-12-25 19:04:43.8505717
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:05:21.3349992
+Ended on: 2024-12-25 19:06:34.7159283
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:08:01.7807496
+Ended on: 2024-12-25 19:08:47.3970854
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:12:43.8653162
+Ended on: 2024-12-25 19:13:41.7436468
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:16:49.1986015
+Ended on: 2024-12-25 19:17:32.1885648
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:20:59.9060302
+Ended on: 2024-12-25 19:21:41.2479189
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:24:06.7281689
+Ended on: 2024-12-25 19:24:27.4205373
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:25:28.5059014
+Ended on: 2024-12-25 19:26:05.5458233
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 19:29:00.7599648
+Ended on: 2024-12-25 19:29:25.7530304
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 20:17:50.3132199
+Ended on: 2024-12-25 20:19:10.1861581
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 20:24:56.0647530
+Ended on: 2024-12-25 20:25:54.1921025
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 20:28:44.5642491
+Ended on: 2024-12-25 20:29:08.6461739
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-25 20:33:06.4732612
+Ended on: 2024-12-25 20:34:06.0534632
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 10:31:51.0622594
+Ended on: 2024-12-26 10:33:12.1238100
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:01:29.4296016
+Ended on: 2024-12-26 11:01:37.1286060
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:03:24.8538233
+Ended on: 2024-12-26 11:04:24.7685092
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:05:08.0882333
+Ended on: 2024-12-26 11:05:32.2473234
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:05:46.2431971
+Ended on: 2024-12-26 11:06:53.7495176
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-26 11:06:34.2875318
+***************************************************************
+Started on: 2024-12-26 11:11:45.1833053
+Started on: 2024-12-26 11:15:22.9938353
+Started on: 2024-12-26 11:39:30.7423210
+Ended on: 2024-12-26 11:40:12.4039376
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:44:19.3678736
+Ended on: 2024-12-26 11:47:02.0588671
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-26 11:45:22.2671639
+***************************************************************
+Started on: 2024-12-26 11:48:59.9477121
+Ended on: 2024-12-26 11:49:58.3565046
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:51:56.0160257
+Ended on: 2024-12-26 11:52:28.4798573
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 11:55:38.6293256
+Ended on: 2024-12-26 11:56:06.1208880
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 12:29:52.0950456
+Ended on: 2024-12-26 12:30:35.8151499
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 12:50:08.7063998
+Ended on: 2024-12-26 12:50:48.5268865
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 12:54:04.4785171
+Ended on: 2024-12-26 12:54:49.6260118
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 12:56:10.4622726
+Ended on: 2024-12-26 12:56:51.9322951
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 12:58:14.7685580
+Ended on: 2024-12-26 12:59:09.6201118
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:00:59.9724028
+Ended on: 2024-12-26 13:01:26.3657176
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:05:02.6711884
+Ended on: 2024-12-26 13:05:55.8049786
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:06:44.6359556
+Ended on: 2024-12-26 13:08:53.2959226
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:10:36.5415184
+Ended on: 2024-12-26 13:11:29.9080144
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:12:20.5654121
+Ended on: 2024-12-26 13:13:06.8085871
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:14:32.6739402
+Ended on: 2024-12-26 13:15:46.3954589
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:18:10.2273956
+Ended on: 2024-12-26 13:20:06.5934733
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-26 13:19:08.1874544
+***************************************************************
+Started on: 2024-12-26 13:23:37.2001122
+Ended on: 2024-12-26 13:25:43.0480917
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:26:20.1471389
+Ended on: 2024-12-26 13:26:55.5203307
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:32:55.1959107
+Ended on: 2024-12-26 13:33:44.5086295
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:36:17.8800728
+Ended on: 2024-12-26 13:38:08.5787255
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:38:57.3001605
+Ended on: 2024-12-26 13:40:17.2181980
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:45:04.7795896
+Ended on: 2024-12-26 13:46:31.3496972
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:49:04.9116560
+Ended on: 2024-12-26 13:50:04.7393241
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:53:33.7587524
+Ended on: 2024-12-26 13:54:20.4441667
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 13:57:16.1346839
+Ended on: 2024-12-26 13:58:01.0335830
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:16:43.8172212
+Ended on: 2024-12-26 14:18:31.7419559
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:32:53.9538098
+Ended on: 2024-12-26 14:33:33.7205730
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:35:25.6426622
+Ended on: 2024-12-26 14:36:16.7830191
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:41:59.6147860
+Ended on: 2024-12-26 14:43:06.2266339
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:43:35.8493992
+Ended on: 2024-12-26 14:44:08.9156801
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:46:13.8010198
+Ended on: 2024-12-26 14:46:34.8781864
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:55:16.7825156
+Ended on: 2024-12-26 14:55:49.8950447
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 14:58:29.1449285
+Ended on: 2024-12-26 14:58:53.8280723
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 15:05:17.0551462
+Started on: 2024-12-26 15:08:55.9371559
+Started on: 2024-12-26 15:10:47.9972281
+Ended on: 2024-12-26 15:11:17.6532127
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 15:14:28.9837020
+Ended on: 2024-12-26 15:15:25.6022500
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 15:28:40.8377930
+Ended on: 2024-12-26 15:29:30.8749026
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 15:40:37.0077598
+Started on: 2024-12-26 15:58:27.5412379
+Ended on: 2024-12-26 15:59:29.4551158
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 16:56:36.1766373
+Ended on: 2024-12-26 16:57:23.5548975
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-26 17:13:17.8123021
+Ended on: 2024-12-26 17:14:02.2151382
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:23:08.7092426
+Ended on: 2024-12-30 20:23:30.3405900
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:24:07.4939904
+Ended on: 2024-12-30 20:24:28.9938200
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:28:35.2792176
+Ended on: 2024-12-30 20:28:49.9707489
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:29:06.8401946
+Ended on: 2024-12-30 20:29:30.1925707
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:30:58.6411797
+Ended on: 2024-12-30 20:31:10.3699646
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:31:48.3338428
+Ended on: 2024-12-30 20:32:00.0276367
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:32:16.2967197
+Ended on: 2024-12-30 20:32:43.0063211
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:36:04.9044694
+Ended on: 2024-12-30 20:37:14.0298418
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-30 20:36:52.2951871
+***************************************************************
+Started on: 2024-12-30 20:38:50.1388657
+Ended on: 2024-12-30 20:38:53.3883282
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:41:34.1308162
+Ended on: 2024-12-30 20:41:42.6733615
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:48:56.4641664
+Ended on: 2024-12-30 20:50:15.1611709
+Number of times killed: 1
+Recorded timestamps player was killed:
+2024-12-30 20:49:23.7017918
+***************************************************************
+Started on: 2024-12-30 20:50:49.8009746
+Ended on: 2024-12-30 20:51:42.3474846
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:52:03.5436036
+Ended on: 2024-12-30 20:52:30.5435355
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-30 20:53:42.2541979
+Ended on: 2024-12-30 20:53:58.2926928
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-31 10:45:33.6984662
+Ended on: 2024-12-31 10:45:39.4583032
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-31 10:45:47.2090906
+Ended on: 2024-12-31 10:45:51.6805746
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-31 20:31:36.2620170
+Ended on: 2024-12-31 20:32:32.6186358
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
+Started on: 2024-12-31 20:33:12.3479527
+Ended on: 2024-12-31 20:33:23.0796301
+Number of times killed: 0
+Recorded timestamps player was killed:
+***************************************************************
